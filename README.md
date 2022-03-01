@@ -1,0 +1,2 @@
+# z
+Personal Zettelkasten
