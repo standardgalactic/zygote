@@ -11,7 +11,7 @@ https://geneword.ayinpress.org/gallery/word/mindfulness/zygo
 # ![](.png?raw=true)
 # ![](zygomindfulness.png?raw=true)
 -->
-
+![](-.?raw=true)
 
 #######  #########
 
