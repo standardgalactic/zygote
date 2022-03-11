@@ -1,4 +1,4 @@
-#  - Zygomindfulness
+#  - Zygomindfulness
 
  
 Personal Zettelkasten
