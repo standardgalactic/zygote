@@ -3,7 +3,7 @@
  
 Personal Zettelkasten
 
-Zygomindfulness -- The art of cracking and frying an egg while taking care   break the yolk.<br>
+Zygomindfulness -- Awareness of one's responsibilities.<br>
 https://geneword.ayinpress.org/gallery/word/mindfulness/zygo
 
 ![](.?raw=true)
