@@ -7,6 +7,9 @@ Zygomindfulness -- The art of cracking and frying an egg while taking care �
 https://geneword.ayinpress.org/gallery/word/mindfulness/zygo
 
 
+![](.png?raw=true)
+![](zygomindfulness.png?raw=true)
+
 
 
 #######  #########
