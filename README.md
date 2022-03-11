@@ -14,7 +14,7 @@ https://geneword.ayinpress.org/gallery/word/mindfulness/zygo
 The default branch has been renamed!
 main is now named 
 
-If you have a local clone, you can update it by running the following commands.
+If you have a local clone, you can update it by running the following commands:
 
 git branch -m main '' <br>
 git fetch origin <br>
