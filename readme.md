@@ -63,8 +63,6 @@ overEarth
 OxyEarth
 paleoEarth
 
-...
-
 cataEarth
 centriEarth
 choreoEarth
