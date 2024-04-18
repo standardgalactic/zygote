@@ -1,0 +1,848 @@
+[33mcommit 44897e496e4459d3ca38f60adb286239ea727617[m[33m ([m[1;36mHEAD -> [m[1;32m[m[33m, [m[1;31morigin/[m[33m)[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Mon Nov 27 04:35:59 2023 -0400
+
+    Changed default branch from  to 
+    
+     = yolk
+     = yorp
+
+[33mcommit e4413a3d82cdba603b1947011f70ea8c1e6687d2[m
+Author: Cogito Ergo Sum <nateguimondart@gmail.com>
+Date:   Thu Apr 18 00:29:29 2024 -0300
+
+    Rename -. to sga-shell.png
+
+[33mcommit 5b9ea9e3b944f3d271fb3cc8813c84ec30bb398c[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Mon Nov 27 04:35:06 2023 -0400
+
+    Teleoearth
+
+[33mcommit bb46561d134c66b80f9290f3dadee0b6d472b04e[m
+Author: standardgalactic <mechachleopteryx@gmail.com>
+Date:   Wed Nov 22 14:43:34 2023 -0400
+
+    Imported from zygomindfulness
+
+[33mcommit ccfd801faccc770ca194e31cebdb044041d59b02[m
+Merge: 0133728 d84d6d6
+Author: standardgalactic <standardgalactic@protonmail.com>
+Date:   Sat Mar 12 00:25:02 2022 -0400
+
+    Merge branch '' of https://github.com/standardgalactic/zygomindfulness into 
+
+[33mcommit 013372873e5881175ac6cdebffa8169d862789c3[m
+Author: standardgalactic <standardgalactic@protonmail.com>
+Date:   Sat Mar 12 00:24:15 2022 -0400
+
+     
+
+[33mcommit d84d6d690a35c8c54f975b4251806fa92f8e14a4[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 18:48:25 2022 -0400
+
+     
+
+[33mcommit 3e35c2584b07effc1f0ce84aea245513b7a24d6d[m
+Author: standardgalactic <standardgalactic@protonmail.com>
+Date:   Fri Mar 11 18:45:09 2022 -0400
+
+     
+
+[33mcommit b2fc459fc9fd2af878c297a83f3f63d5b8861414[m
+Merge: b3779e6 dae4e22
+Author: standardgalactic <standardgalactic@protonmail.com>
+Date:   Fri Mar 11 18:43:12 2022 -0400
+
+    Merge branch '' of https://github.com/standardgalactic/zygomindfulness into 
+
+[33mcommit b3779e658a5f2055f3ab64278ed276f9bd8e083d[m
+Author: standardgalactic <standardgalactic@protonmail.com>
+Date:   Fri Mar 11 18:42:49 2022 -0400
+
+     
+
+[33mcommit dae4e224118bee522f9585c4d5c0a3f9396ff7fa[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 18:36:56 2022 -0400
+
+       
+
+[33mcommit 796562344e329cb134a1b31fc1bf442eaab3a36a[m
+Author: standardgalactic <standardgalactic@protonmail.com>
+Date:   Fri Mar 11 18:34:46 2022 -0400
+
+     
+
+[33mcommit b19b62b306811c4f1df2dca7fb83326d4b0f05ea[m
+Author: standardgalactic <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 18:26:10 2022 -0400
+
+     
+
+[33mcommit 6721c5fff738efa88e056cc75949afbfb9ba1b83[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 17:24:35 2022 -0400
+
+      
+
+[33mcommit 900ce0ebbb452de52993f2d4eafd9a10dacbaadc[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:46:02 2022 -0400
+
+       .
+
+[33mcommit e679d6842e162a8d98917e0bd398bc58047b7737[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:44:23 2022 -0400
+
+      ()
+
+[33mcommit 35769fab94cc651fe996c2a9edc68f2bfc673db2[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:43:50 2022 -0400
+
+    
+
+[33mcommit 4374a7ebbc4e37381202624df5539cf086ff3870[m
+Author: Cogito Ergo Sum <standardgalactic@protonmail.com>
+Date:   Fri Mar 11 09:43:15 2022 -0400
+
+    
+
+[33mcommit 82c6134475274acc61b9a7fa0141d578a06a82f7[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:41:33 2022 -0400
+
+     .
+
+[33mcommit c0f2ccd19ea7e7a48c5267f076e03cd14569bb78[m
+Author: Cogito Ergo Sum <standardgalactic@protonmail.com>
+Date:   Fri Mar 11 09:40:22 2022 -0400
+
+       
+
+[33mcommit 5555e32c766b73da20c739c7a72e9d98b1c6991b[m
+Author: Cogito Ergo Sum <standardgalactic@protonmail.com>
+Date:   Fri Mar 11 09:37:53 2022 -0400
+
+       
+
+[33mcommit b608df5dfa59a0081d20870a2a686cf57a4a9548[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:14:15 2022 -0400
+
+    Rename y to 
+
+[33mcommit 28165d0987eb1cec9cfe0bfd0c3989d6bd02badf[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:13:47 2022 -0400
+
+    Rename  to 
+
+[33mcommit 6df998f5b91841e4285bd3cb137ec491379717ea[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:13:06 2022 -0400
+
+    Rename u to 
+
+[33mcommit 3bb470cae02e39f40466f4cf803eeb67bacc3fc6[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:12:44 2022 -0400
+
+    Rename o to 
+
+[33mcommit 8356c61dc17e7f51af6e1dae74ee72f51ecf7bca[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:12:27 2022 -0400
+
+    Rename i to 
+
+[33mcommit 09a319b37ed13fbddfb76705663f2350f054499c[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:12:05 2022 -0400
+
+    Rename e to 
+
+[33mcommit ecb47f9558ec4b1ea2b024ebc511551c50807a34[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:11:48 2022 -0400
+
+    Rename a_bunch_of_random_files98 to 
+
+[33mcommit 0451967afd0c19f09790186a38be3697b96f3816[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:11:32 2022 -0400
+
+    Rename a_bunch_of_random_files97 to 
+
+[33mcommit b3520f715c8ee8caa092de2288b56e565e632448[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:11:18 2022 -0400
+
+    Rename a_bunch_of_random_files96 to 
+
+[33mcommit 97a00aade86e41b3762e9fe90a75aed027d79f43[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:10:39 2022 -0400
+
+    Rename a_bunch_of_random_files95 to 
+
+[33mcommit 3792a7c518d2753fa44731f119f83c93c9841b92[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:10:24 2022 -0400
+
+    Rename a_bunch_of_random_files94 to 
+
+[33mcommit 75d3a27927dece89d8c605807a1b78cd4a0bdb2f[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:09:59 2022 -0400
+
+    Rename a_bunch_of_random_files93 to 
+
+[33mcommit 46755471e885bd74a80d5bdf55f9291858e42bca[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:09:16 2022 -0400
+
+    Rename a_bunch_of_random_files92 to 
+
+[33mcommit b27e3bae34f55cf2f2800519e97c93d4b8bcf4ab[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:08:58 2022 -0400
+
+    Rename a_bunch_of_random_files91 to 
+
+[33mcommit a752205f773684e36d78bdc28b9c7013e116d1c6[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:08:34 2022 -0400
+
+    Rename a_bunch_of_random_files90 to 
+
+[33mcommit fe3552880e2b8ac4e4cfe9b85e14c306daee6801[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:08:19 2022 -0400
+
+    Rename a_bunch_of_random_files9 to 
+
+[33mcommit 9c2afffedfd67f0192f0aee0968f9edd18b7bee2[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:07:58 2022 -0400
+
+    Rename a_bunch_of_random_files89 to 
+
+[33mcommit 35ccbb01658ae7da8a857b06bc4f5c22273267d3[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:07:44 2022 -0400
+
+    Rename a_bunch_of_random_files88 to 
+
+[33mcommit 52fc669e6615bbd3daba953b970a4eb69cb95d4d[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:07:29 2022 -0400
+
+    Rename a_bunch_of_random_files87 to 
+
+[33mcommit 800b1c53bd90ebe911dabab26691ec8b6d1361f6[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:07:11 2022 -0400
+
+    Rename a_bunch_of_random_files86 to 
+
+[33mcommit 72d3fdc2adb0e5c4f2222b7cbe4f6520bb226aa3[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:06:48 2022 -0400
+
+    Rename a_bunch_of_random_files85 to 
+
+[33mcommit 24972f0f4ae52d6f6a247bdf6b870e85ec092f88[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:06:21 2022 -0400
+
+    Rename a_bunch_of_random_files84 to 
+
+[33mcommit 4ff9c1202a4f05e96810ae0d5d695c74e7f25150[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:06:01 2022 -0400
+
+    Rename a_bunch_of_random_files83 to 
+
+[33mcommit d111a8f15094e27e57e8d51e57fd541065abeb5a[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:05:30 2022 -0400
+
+      '
+
+[33mcommit 25dcb551679d548653c7a059cb3940027f994aed[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:04:45 2022 -0400
+
+    Rename a_bunch_of_random_files82 to 
+
+[33mcommit 8d17e3b04f97bf14e1a84b6764b0af8226ed03eb[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:04:27 2022 -0400
+
+    Rename a_bunch_of_random_files81 to 
+
+[33mcommit 475e5cdfd34672646ebe3cedf9bf7550a2cc88a6[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:04:12 2022 -0400
+
+    Rename a_bunch_of_random_files80 to 
+
+[33mcommit dc9fd88c20b04152762dfdc85159ceb76b8de886[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:03:47 2022 -0400
+
+    Rename a_bunch_of_random_files8 to 
+
+[33mcommit a4160abefc881d96f1dcaf0e2ac077c31d83201c[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:03:21 2022 -0400
+
+    Rename a_bunch_of_random_files79 to 
+
+[33mcommit dd8faff90561ace588d295e84aaa718a93422b27[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:03:06 2022 -0400
+
+    Rename a_bunch_of_random_files78 to 
+
+[33mcommit adee75aee61fc3f2d7f07cf32a4b74aa02411a6e[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:02:49 2022 -0400
+
+    Rename a_bunch_of_random_files77 to 
+
+[33mcommit 3aa688f6eb413b307eacd40f22e5a487224e0248[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:02:34 2022 -0400
+
+    Rename a_bunch_of_random_files76 to 
+
+[33mcommit da08700083313a5858b01103a964b496002adf9b[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:02:18 2022 -0400
+
+    Rename a_bunch_of_random_files75 to 
+
+[33mcommit 01bf00a17e46577b5f1d91a6ad717186b8246e67[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:01:46 2022 -0400
+
+    Rename a_bunch_of_random_files74 to 
+
+[33mcommit 0b3ab8d66c429a88f7830d2a52882436c2e825d7[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:01:28 2022 -0400
+
+    Rename a_bunch_of_random_files73 to 
+
+[33mcommit dab6d60491111428dc65c7bb8038c9af2ffbeb31[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:01:09 2022 -0400
+
+    Rename a_bunch_of_random_files72 to 
+
+[33mcommit a149b9759951cf3f12853e59e7c64bd1cfd967df[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:00:42 2022 -0400
+
+    Rename a_bunch_of_random_files71 to 
+
+[33mcommit 56f60ed16dc6d6ef2805cd922f18dcdba8e3e3d2[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 09:00:17 2022 -0400
+
+    Rename a_bunch_of_random_files70 to 
+
+[33mcommit ad32eafb12d5d966bbdf9a5ecf53c12e6169e0af[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:59:59 2022 -0400
+
+    Rename a_bunch_of_random_files7 to 
+
+[33mcommit abe60d893c85fcc8bfaeb0457152bb9ddef2b209[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:59:42 2022 -0400
+
+    Rename a_bunch_of_random_files69 to 
+
+[33mcommit efa43eb2a474605c76367976d18a14ab51d76b1c[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:58:57 2022 -0400
+
+    Rename a to 
+
+[33mcommit 7531776061ada11744ea99ac07733c7c2847465b[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:56:09 2022 -0400
+
+    Rename a_bunch_of_random_files68 to 
+
+[33mcommit 213c01ae4c9cd87231c9411f6a39e83d77072c4b[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:55:16 2022 -0400
+
+    Rename a_bunch_of_random_files67 to 
+
+[33mcommit a54112aa11bcde27312c36d485276161d9b316be[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:52:52 2022 -0400
+
+    Rename a_bunch_of_random_files66 to 
+
+[33mcommit 88c0a3ffdefc34bfe8a0c403688c73799419a4a3[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:52:33 2022 -0400
+
+    Rename a_bunch_of_random_files65 to 
+
+[33mcommit ec72648cdb3b8b471f4b68c08c5b261f7acda7d4[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:52:19 2022 -0400
+
+    Rename a_bunch_of_random_files64 to 
+
+[33mcommit 5cab54ed7a54b7d436d30fc4a950038c5aa271d1[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:52:05 2022 -0400
+
+    Rename a_bunch_of_random_files63 to 
+
+[33mcommit b1f3a70373cb3ff99f38c6270f7274ab355a27c5[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:51:47 2022 -0400
+
+    Rename a_bunch_of_random_files62 to 
+
+[33mcommit 616cf73c766fcb41613bd43d157986e1a3283292[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:51:33 2022 -0400
+
+    Rename a_bunch_of_random_files61 to 
+
+[33mcommit 8dee910bc50aa816cf2ed250e011dcd0cb24698e[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:51:16 2022 -0400
+
+    Rename a_bunch_of_random_files60 to 
+
+[33mcommit a7a605193a4436058af2f95292dc6bfc055d748b[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:50:49 2022 -0400
+
+    Rename a_bunch_of_random_files6 to 
+
+[33mcommit f8b67a55d5b93fbbe35574f81bfb7023156e5494[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:50:37 2022 -0400
+
+    Rename a_bunch_of_random_files59 to 
+
+[33mcommit ec0ee640bbae7e4ebeb8788146cc8989f10f1c4e[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:50:21 2022 -0400
+
+    Rename a_bunch_of_random_files58 to 
+
+[33mcommit a8f4c61632fa4374604828b22c1baed764a690d0[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:50:04 2022 -0400
+
+    Rename a_bunch_of_random_files57 to 
+
+[33mcommit 864ce0a98f0b8bf7400292102a31535986f2d2ff[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:49:38 2022 -0400
+
+    Rename a_bunch_of_random_files56 to 
+
+[33mcommit f15c9543225518f8329aa743db24b208edbe8db7[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:48:31 2022 -0400
+
+    Rename a_bunch_of_random_files55 to 
+
+[33mcommit 286884456d24cb6ecdca1e3d6de53505b9e239a4[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:47:35 2022 -0400
+
+    Rename a_bunch_of_random_files53 to 
+
+[33mcommit 668d7d3ba7d758c164d0eb7636e042e000d3993f[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:47:00 2022 -0400
+
+    Rename a_bunch_of_random_files52 to 
+
+[33mcommit a86e9877c3b2eff2bd5443e7b9c0870b138edab3[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:46:20 2022 -0400
+
+    Rename a_bunch_of_random_files51 to 
+
+[33mcommit c5b5678528fea6960b84cc53bf7107bf742c52de[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:46:02 2022 -0400
+
+    Rename a_bunch_of_random_files50 to 
+
+[33mcommit ced4a2ec821584071f8299034a142a1c845db5f3[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:45:38 2022 -0400
+
+    Rename a_bunch_of_random_files5 to 
+
+[33mcommit e453e5b46cc4af3c64801151ff6a672eecb3676c[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:45:20 2022 -0400
+
+    Rename a_bunch_of_random_files48 to 
+
+[33mcommit b37dba3eca3b8972c39016335fa9f58d18b8f5fb[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:45:03 2022 -0400
+
+    Rename a_bunch_of_random_files47 to 
+
+[33mcommit 9fd0d926000124e6e4183a1e77e4a43eafb73f39[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:44:49 2022 -0400
+
+    Rename a_bunch_of_random_files46 to 
+
+[33mcommit e704cac4092ab8924ec0ed1f2108795c5cd64c42[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:44:31 2022 -0400
+
+    Rename a_bunch_of_random_files45 to 
+
+[33mcommit 6d7077318848bf58eb045326f9246ddca3b34861[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:44:16 2022 -0400
+
+    Rename a_bunch_of_random_files44 to 
+
+[33mcommit 625cc760514a6e1ac2e5e7204d24e41b775512f1[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:44:01 2022 -0400
+
+    Rename a_bunch_of_random_files43 to 
+
+[33mcommit 2a7f1726823080d21dfd27430e2fa3cd1e2d0e1a[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:43:37 2022 -0400
+
+    Rename a_bunch_of_random_files42 to 
+
+[33mcommit c256176c158f067411d21efe7345c6ecf135be8f[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:43:19 2022 -0400
+
+    Rename a_bunch_of_random_files41 to 
+
+[33mcommit 9bea2446f6423b8e2aa725b20213b996c6b12ffa[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:43:02 2022 -0400
+
+    Rename a_bunch_of_random_files40 to 
+
+[33mcommit 4c454298db584ada90da86b55e9779f8902af134[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:42:51 2022 -0400
+
+    Rename a_bunch_of_random_files4 to 
+
+[33mcommit 9a4c9615f415f98b57c7a6b040fd716d3374ef04[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:42:38 2022 -0400
+
+    Rename a_bunch_of_random_files39 to 
+
+[33mcommit a347ca514a2beb988829f87c0fecea118e537fbb[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:42:26 2022 -0400
+
+    Rename a_bunch_of_random_files38 to 
+
+[33mcommit f7e1129849dced0ed67b7931a9b35afbf90c17b3[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:42:04 2022 -0400
+
+    Rename a_bunch_of_random_files37 to 
+
+[33mcommit 431a2161cc7fc8225ebaf8d09140b03a63ebd569[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:41:49 2022 -0400
+
+    Rename a_bunch_of_random_files36 to 
+
+[33mcommit 14a4066ec638234ba63b5e4fa4b48a392f2720f1[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:41:36 2022 -0400
+
+    Rename a_bunch_of_random_files35 to 
+
+[33mcommit 91e2091d5e40483442ed13ca9f19a475bab6180b[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:41:22 2022 -0400
+
+    Rename a_bunch_of_random_files34 to 
+
+[33mcommit b6912051fbdc7ab7856256d9c6cbcb5041f32fa9[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:41:03 2022 -0400
+
+    Rename a_bunch_of_random_files33 to 
+
+[33mcommit 0613df4331683d9873c01ba85d6da4878276f163[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:40:44 2022 -0400
+
+    Rename a_bunch_of_random_files32 to 
+
+[33mcommit 67a982517fd96d9b160cbace28f2ebd2693a6338[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:40:23 2022 -0400
+
+    Rename a_bunch_of_random_files31 to 
+
+[33mcommit d8e11755f57c6c6dd2c99c2e51d9019bac79482f[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:40:03 2022 -0400
+
+    Rename a_bunch_of_random_files30 to 
+
+[33mcommit 8a6cd604ccf3c7a6f1e32a037fea055f16a142c9[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:39:44 2022 -0400
+
+    Rename a_bunch_of_random_files3 to 
+
+[33mcommit 311fd2a8ba80fb86cee03a68917c42c837c6fd5c[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:39:22 2022 -0400
+
+    Rename a_bunch_of_random_files29 to 
+
+[33mcommit bd0d9d35794dba2228ebca2da7ff8943b0e0e454[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:39:08 2022 -0400
+
+    Rename a_bunch_of_random_files28 to 
+
+[33mcommit faa4ea97b45476719bdb71428347a4605e1b5b7f[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:38:52 2022 -0400
+
+    Rename a_bunch_of_random_files27 to 
+
+[33mcommit 1cc7855a0908a37c8d576c43642121ea09229a9a[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:38:38 2022 -0400
+
+    Rename a_bunch_of_random_files26 to 
+
+[33mcommit bddb88896a01148df2a90e7eb020be759e89043c[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:38:23 2022 -0400
+
+    Rename a_bunch_of_random_files25 to 
+
+[33mcommit 59c0ca08fb88f19bb1e7ecdf78608a3f732574f7[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:38:01 2022 -0400
+
+    Rename a_bunch_of_random_files24 to 
+
+[33mcommit 6f1f8877dbad48257e2ec6f814f154f4bf1ca880[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:37:43 2022 -0400
+
+    Rename a_bunch_of_random_files23 to 
+
+[33mcommit f5abfd6cf90373977eb4159aab780b33f7a487e0[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:37:23 2022 -0400
+
+    Rename a_bunch_of_random_files22 to 
+
+[33mcommit ff76e49440421c024e38a413ee4ddfded08f8f11[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:37:04 2022 -0400
+
+    Rename a_bunch_of_random_files21 to 
+
+[33mcommit f355905e84738369581bcce4b7a678154a01aa66[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:36:50 2022 -0400
+
+    Rename a_bunch_of_random_files20 to 
+
+[33mcommit e6f740643c0ddefdb7f6f8c2853e3d9db9b39ee8[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:36:32 2022 -0400
+
+    Rename a_bunch_of_random_files2 to 
+
+[33mcommit dc20b6b2035bd84d2e3e877ed6b3b3478aaf5505[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:36:07 2022 -0400
+
+    Rename a_bunch_of_random_files19 to 
+
+[33mcommit 10ac8c9b3e349c3e274616b161945070ef68671d[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:35:08 2022 -0400
+
+       
+
+[33mcommit 6b54e5f7eeadc35ef8a85cb1f6c505ab11469a2d[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:32:45 2022 -0400
+
+    Rename a_bunch_of_random_files18 to //-
+
+[33mcommit 67321ade0379797be8bcc7898406cbaed52d4032[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:32:17 2022 -0400
+
+    Rename a_bunch_of_random_files17 to //
+
+[33mcommit d99596c12a3978e4cf2f58ddf81fabf648ddf458[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:31:47 2022 -0400
+
+    Rename a_bunch_of_random_files15 to //--/-
+
+[33mcommit 9ee7524dfffdb624fecbc3329e72e03805f781a8[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:30:50 2022 -0400
+
+    Rename a_bunch_of_random_files14 to //--/
+
+[33mcommit ed6b9a9b0c5ab28b638258b1e12939004d9d4405[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:29:55 2022 -0400
+
+    Rename a_bunch_of_random_files13 to //-/-
+
+[33mcommit 8a9540878c683ab78966d38769eef5f897268c38[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:28:33 2022 -0400
+
+    Rename a_bunch_of_random_files11 to //-/-
+
+[33mcommit 7d1fabc3aefb623f9abd95db707bffb81680990e[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:25:47 2022 -0400
+
+    Rename a_bunch_of_random_files100 to //--/--
+
+[33mcommit f6a28d7597e19e85010f761019862e45660df2f8[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:22:56 2022 -0400
+
+    Rename a_bunch_of_random_files99 to 
+
+[33mcommit 5f903f395b6576b291c596a00e83c7e078708454[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:19:11 2022 -0400
+
+    Rename README.md to readme.md
+    
+     .  .
+
+[33mcommit ffa7c30bcfb79c9c766164ac0202c7c1e9eb34b8[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:18:05 2022 -0400
+
+     -> 
+
+[33mcommit c918aca44985db34614aa64d3077de1485813fe0[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:17:13 2022 -0400
+
+     
+
+[33mcommit eb750e5ffbb41d9548abf67faee5f6d18ad70c04[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:14:13 2022 -0400
+
+     -
+
+[33mcommit 0ddc113d1bf0e6366912c83836dff031e0926f95[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:12:36 2022 -0400
+
+    Update README.md
+
+[33mcommit a79a0213c62718763521493c4e3c549579dc5694[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:12:06 2022 -0400
+
+     -
+
+[33mcommit dde2ca0056f05de252a073fe59ec56a9bb507c57[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:10:37 2022 -0400
+
+     .
+
+[33mcommit 62443445c97891cfdc908582681e5903fb741906[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Fri Mar 11 08:07:37 2022 -0400
+
+    
+    
+    '   !
+
+[33mcommit 37255211423e23c2b7fe719f456b55697f96bd6f[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Mon Mar 7 07:01:56 2022 -0400
+
+    Rename a_bunch_of_random_files16 to y
+
+[33mcommit 683ef01c59aadd13611980b41feb8d8b2847ac48[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Mon Mar 7 07:01:36 2022 -0400
+
+    Rename a_bunch_of_random_files10 to u
+
+[33mcommit 914c510d17c13cfc717b0037a38384326808413b[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Mon Mar 7 07:01:18 2022 -0400
+
+    Rename a_bunch_of_random_files12 to o
+
+[33mcommit d5928622e5e0859f5ded77d6c82a4edfb7e84e48[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Mon Mar 7 07:01:03 2022 -0400
+
+    Rename a_bunch_of_random_files49 to i
+
+[33mcommit fcb197f1868bf14af19499c9906107a022fcae58[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Mon Mar 7 07:00:04 2022 -0400
+
+    Rename a_bunch_of_random_files1 to e
+
+[33mcommit 4218dcd05a57f37f0269b4171fa4a2e8b8d9833c[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Mon Mar 7 06:59:26 2022 -0400
+
+    Rename a_bunch_of_random_files54 to a
+
+[33mcommit ee193aa023cec2c978ce8bd25639ff5ec688159e[m
+Author: standardgalactic <mechachleopteryx@gmail.com>
+Date:   Tue Mar 1 09:06:43 2022 -0400
+
+    A few files.
+
+[33mcommit a7b61f39f76c9dd8b0baa58a0f6aa1f05ea16fd8[m
+Author: Cogito Ergo Sum <mechachleopteryx@gmail.com>
+Date:   Tue Mar 1 09:00:54 2022 -0400
+
+    Initial commit
